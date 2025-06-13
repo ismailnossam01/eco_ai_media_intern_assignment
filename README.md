@@ -106,10 +106,3 @@ Ensure you have Node.js and npm (or yarn) installed on your machine.
 *   `src/index.css`: Global styles, including Tailwind CSS imports and custom animations/utilities.
 *   `public`: Static assets.
 
-## Credits
-
-*   Profile and project images sourced from [Pexels](https://www.pexels.com/).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
