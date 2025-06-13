@@ -2,6 +2,8 @@
 
 This is a modern, responsive single-page portfolio website designed to showcase my skills as a Full Stack Developer and UI/UX Designer. It features a clean, interactive, and visually appealing interface with a focus on user experience and modern web development practices.
 
+**Published Link**: https://ecoaimediaportfolio.netlify.app/
+
 ## Features
 
 *   **Responsive Design**: Optimized for seamless viewing across various devices, from mobile phones to large desktop screens.
